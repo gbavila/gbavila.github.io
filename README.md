@@ -8,4 +8,5 @@ Grupo J:
 - William Petterle Pfaltzgraf
 
 Página do projeto: https://gbavila.github.io/
+
 Link para Miro do Software Project Canvas: https://miro.com/app/board/uXjVMoe0fxA=/?share_link_id=280860766936
