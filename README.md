@@ -10,3 +10,12 @@ Grupo J:
 Página do projeto: https://gbavila.github.io/
 
 Link para Miro do Software Project Canvas: https://miro.com/app/board/uXjVMoe0fxA=/?share_link_id=280860766936
+
+
+
+<div align="center">
+<a>
+    <img src="https://github.com/gbavila/gbavila.github.io/blob/main/EngSoft%20-SoftwareProjectCanvas-3.jpg" alt="Logo" >
+  </a>
+
+</div>
