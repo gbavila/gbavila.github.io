@@ -12,7 +12,6 @@ Página do projeto: https://gbavila.github.io/
 Link para Miro do Software Project Canvas: https://miro.com/app/board/uXjVMoe0fxA=/?share_link_id=280860766936
 
 
-
 <div align="center">
 <a>
     <img src="https://github.com/gbavila/gbavila.github.io/blob/main/EngSoft%20-SoftwareProjectCanvas-3.jpg" alt="Logo" >
@@ -20,4 +19,4 @@ Link para Miro do Software Project Canvas: https://miro.com/app/board/uXjVMoe0fx
 
 </div>
 
-Link da Planilha (Partes Interessadas): https://docs.google.com/spreadsheets/d/1RmY3BogFoHZ2cq9GsdbT8Q03hn9RGP2a99Fdaqr336E/
+Link da Planilha (Partes Interessadas e História de usuários): https://docs.google.com/spreadsheets/d/1RmY3BogFoHZ2cq9GsdbT8Q03hn9RGP2a99Fdaqr336E/
