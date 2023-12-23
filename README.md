@@ -19,4 +19,4 @@ Link para Miro do Software Project Canvas: https://miro.com/app/board/uXjVMoe0fx
 
 </div>
 
-Link da Planilha (Partes Interessadas e História de usuários): https://docs.google.com/spreadsheets/d/1RmY3BogFoHZ2cq9GsdbT8Q03hn9RGP2a99Fdaqr336E/
+Link da Planilha (Partes Interessadas, História de usuários e Casos de Uso): https://docs.google.com/spreadsheets/d/1RmY3BogFoHZ2cq9GsdbT8Q03hn9RGP2a99Fdaqr336E/
